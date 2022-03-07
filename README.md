@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## Check my History
+https://www.notion.so/Shawn-s-History-7a7c99a099ae4c49ae0bca2f95ea8914
+
+
+
 <!--
 **TechD-lab/TechD-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

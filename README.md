@@ -10,3 +10,5 @@ Currently, I'm working on ![React](https://img.shields.io/badge/React-2C3454?log
 
 
 [![Shawns's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechD-lab)](https://github.com/TechD-lab/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechD-lab)](https://github.com/TechD-lab/github-readme-stats)

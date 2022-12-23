@@ -14,6 +14,6 @@ Currently, I'm working on ![React](https://img.shields.io/badge/React-2C3454?log
 ![Firebase](https://img.shields.io/badge/Firebase-red?logo=Firebase) ![AWS](https://img.shields.io/badge/Amazon%20Aws-red?logo=Amazon%20AWS)  ![Spring](https://img.shields.io/badge/Spring%20Boot-white?logo=Spring%20Boot)
 
 
-[![Shawns's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechD-lab)](https://github.com/ShawnyLab/github-readme-stats)
+[![Shawns's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawnyLab)](https://github.com/ShawnyLab/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechD-lab)](https://github.com/ShawnyLab/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnyLab)](https://github.com/ShawnyLab/github-readme-stats)

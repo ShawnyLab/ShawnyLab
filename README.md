@@ -9,7 +9,6 @@
 - ![Swift](https://img.shields.io/badge/swift-white?logo=Swift) &nbsp; ![Rx](https://img.shields.io/badge/RxSwift-B7178C?logo=ReactiveX)
   Many, Many ![Apple](https://img.shields.io/badge/Apple-black?logo=Apple) apps.
 
-Currently, I'm working on ![React](https://img.shields.io/badge/React-2C3454?logo=React)
 
 ![Firebase](https://img.shields.io/badge/Firebase-red?logo=Firebase) ![AWS](https://img.shields.io/badge/Amazon%20Aws-red?logo=Amazon%20AWS)  ![Spring](https://img.shields.io/badge/Spring%20Boot-white?logo=Spring%20Boot)
 

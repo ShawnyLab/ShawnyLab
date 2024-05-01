@@ -16,4 +16,5 @@
 - Kait Solutions
 - 42 Seoul 본과정
 - 42 Seoul La Piscine
+- 2024 Let's Swift Organizer
 

@@ -12,6 +12,7 @@
 
 ## ⛳️ Activities
 
+- WMD.
 - Hustle Lab
 - Kait Solutions
 - 42 Seoul 본과정
